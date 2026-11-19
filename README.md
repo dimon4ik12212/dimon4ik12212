@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello!
+### Dimo's here 
 
-<!--
-**dimon4ik12212/dimon4ik12212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning **Python**, **HTML**, **CSS**, **Luau** and **Kotlin** for fun :)
 
-Here are some ideas to get you started:
+#### 🛠️My Stack:
+![Python](https://shields.io)
+![Lua](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Kotlin](https://shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Laptop Specs & Setup:
+- **CPU:** AMD Ryzen 7 7735HS
+- **GPU:** AMD Radeon 680M
+- **RAM:** 16 GB | **Storage:** 512 GB SSD
+- **OS:** Windows
+- **Browser:** Chrome
+
+#### 💭 Currently thinking about:
+- Switching to Linux for the first time
+- Switching to Zen Browser, Helium or Firefox
+- Actually start making some good programs
+- Drink tea 
+
+---
+
+ *I love ice creams btw*

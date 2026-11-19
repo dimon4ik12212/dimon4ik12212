@@ -4,11 +4,8 @@
 Learning **Python**, **HTML**, **CSS**, **Luau** and **Kotlin** for fun :)
 
 #### 🛠️My Stack:
-![Python](https://shields.io)
-![Lua](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![Kotlin](https://shields.io)
+`Python` • `Luau` • `HTML5` • `CSS3` • `Kotlin`
+
 
 #### 💻 Laptop Specs & Setup:
 - **CPU:** AMD Ryzen 7 7735HS
